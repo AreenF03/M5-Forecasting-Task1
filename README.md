@@ -77,14 +77,6 @@ Key patterns observed:
 
 ---
 
-## 📁 Files
-
-- `M5_Forecasting_Accuracy_Task1.ipynb`: full notebook
-- `README.md`: project summary
-- `m5_sales_model.pkl`: optional exported model
-
----
-
 ## 🏷️ Tags
 `Machine Learning` `Retail Forecasting` `LightGBM` `Time Series` `M5 Dataset` `Python` `EDA`
 
