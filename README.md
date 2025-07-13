@@ -51,7 +51,7 @@ Key patterns observed:
 - Used last 28 days as test set
 - TimeSeriesSplit cross-validation
 - Evaluation Metric: **RMSE**
-- Final RMSE: **_X.XX_** (insert your result here)
+- Final RMSE: 1.58 
 
 ### 4. **Reporting**
 - Visualized prediction vs actual sales
